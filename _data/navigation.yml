@@ -2,7 +2,7 @@
 main:
   - title: "How does it work?"
     url: /Howdoesitwork/
-  - title: "Quick-Start Guide"
+  - title: "Navigation code path is /data/navigation.yml"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
